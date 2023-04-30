@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_common_html_texts",
+  "info": {
+    "displayName": "htmlText",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "content": {
+      "type": "text"
+    }
+  }
+}

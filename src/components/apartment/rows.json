@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_apartment_rows",
+  "info": {
+    "displayName": "rows"
+  },
+  "options": {},
+  "attributes": {
+    "itemsCollection": {
+      "type": "component",
+      "repeatable": true,
+      "component": "apartment.item"
+    }
+  }
+}

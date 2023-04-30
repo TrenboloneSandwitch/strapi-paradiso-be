@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_common_quotes",
+  "info": {
+    "displayName": "quote"
+  },
+  "options": {},
+  "attributes": {
+    "color": {
+      "type": "enumeration",
+      "enum": [
+        "blue",
+        "red"
+      ]
+    },
+    "content": {
+      "type": "text"
+    }
+  }
+}

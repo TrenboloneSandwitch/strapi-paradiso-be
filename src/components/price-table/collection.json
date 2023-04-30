@@ -1,0 +1,18 @@
+{
+  "collectionName": "components_price_table_collections",
+  "info": {
+    "displayName": "collection",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "itemsCollection": {
+      "type": "component",
+      "repeatable": true,
+      "component": "price-table.item"
+    },
+    "heading": {
+      "type": "string"
+    }
+  }
+}

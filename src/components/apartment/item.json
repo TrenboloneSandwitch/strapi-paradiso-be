@@ -1,0 +1,23 @@
+{
+  "collectionName": "components_apartment_items",
+  "info": {
+    "displayName": "item"
+  },
+  "options": {},
+  "attributes": {
+    "icon": {
+      "type": "string"
+    },
+    "category": {
+      "type": "enumeration",
+      "enum": [
+        "first",
+        "second",
+        "third"
+      ]
+    },
+    "description": {
+      "type": "text"
+    }
+  }
+}

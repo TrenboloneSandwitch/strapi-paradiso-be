@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_icon_items_collections",
+  "info": {
+    "displayName": "collection"
+  },
+  "options": {},
+  "attributes": {
+    "itemsCollection": {
+      "type": "component",
+      "repeatable": true,
+      "component": "icon-items.item"
+    }
+  }
+}
